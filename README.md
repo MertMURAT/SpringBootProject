@@ -2,7 +2,7 @@
 <div align="center"><h1> :sparkles: E-Commerce Project :sparkles: </h1> </div>
 <div align="center"><h2> 🚥 E-TİCARET PROJESİ 🚥 </h2> </div>
 
-:point_right:  'Room Booking' This Project is the Final Project of ETSTUR Bootcamp. Tools: **Java Spring-Hibernate-ORM-Maven-Spring Boot-AOP-DTO-JPA-RestAPI-JSON-Dev Tools-PostgreSQL**
+:point_right:  'Room Booking' This Project is the Final Project of ETSTUR Bootcamp. Tools: **Java Spring-Hibernate-ORM-Maven-Spring Boot-AOP-DTO-JPA-RestAPI-JSON-Dev Tools**
 <br/>
  ``` 'Room Booking' Araçlar: **Java Spring-Hibernate-ORM-Maven-Spring Boot-AOP-DTO-JPA-RestAPI-JSON-Dev Tools-PostgreSQL**```
 <br/>
@@ -26,16 +26,12 @@
 <ul><li>	
   <a href = "https://github.com/TheAykac/Room-Booking/tree/main/hotelBooking/hotelBooking/src/main/java/com/example/hotelBooking/api">:open_file_folder: Api</a>
 	
-	</ul>
-	</li>
-	<li>
+
    
 <ul><li>	
   <a href = "https://github.com/TheAykac/Room-Booking/tree/main/hotelBooking/hotelBooking/src/main/java/com/example/hotelBooking/api">:open_file_folder: Api</a>
 	
-	</ul>
-	</li>
-	<li>
+
 
 ---
 
@@ -47,7 +43,7 @@
 <a href="https://hibernate.org/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/hibernate-logo-png-transparent.png" width="40" height="40"/> 
 <a href="https://swagger.io/" target="_blank"> <img src="https://seeklogo.com/images/S/swagger-logo-A49F73BAF4-seeklogo.com.png" width="40" height="40"/> 
 <a href="https://spring.io/projects/spring-data-jpa" target="_blank"> <img src="https://huongdanjava.com/wp-content/uploads/2018/01/spring-data.png" width="40"height="40"/>
-<a href="https://id.heroku.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/873/873120.png" width="40" height="40"/> 
+
 </a>
 </p>
  
