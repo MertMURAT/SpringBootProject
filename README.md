@@ -27,13 +27,11 @@
 
 ### ` 🏗️ N-Layered Architecture`
   
+<img width="165" alt="Ekran Resmi 2023-03-01 09 03 52" src="https://user-images.githubusercontent.com/58560920/222058161-6dc0ef6e-d032-4c09-82b8-3dc6e3d22ab7.png">
 
 	
 
    
-<ul><li>	
-  <a href = "https://github.com/TheAykac/Room-Booking/tree/main/hotelBooking/hotelBooking/src/main/java/com/example/hotelBooking/api">:open_file_folder: Api</a>
-	
 
 
 ---
@@ -57,6 +55,7 @@
  
   ## ` 🔭 Swagger Screenshots and Endpoints`  ###
 
+<img width="1167" alt="Ekran Resmi 2023-03-01 09 02 10" src="https://user-images.githubusercontent.com/58560920/222057974-9aaad677-5457-4dec-b29e-83fc0927835c.png">
 
 
   
