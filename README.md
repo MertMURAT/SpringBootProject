@@ -6,11 +6,6 @@
 <br/>
  ``` 'Room Booking' Araçlar: **Java Spring-Hibernate-ORM-Maven-Spring Boot-AOP-DTO-JPA-RestAPI-JSON-Dev Tools-PostgreSQL**```
 <br/>
-<div align="center"><h1>  ÖZET :scroll: </h1> </div>
-
-
----
-<div align="center"><h1>  SUMMARY :scroll:  </h1> </div>
 
 
 
@@ -54,16 +49,7 @@
  
   ## ` 🔭 Swagger Screenshots and Endpoints`  ###
 
-![SwaggerEkranAlıntısı](https://github.com/TheAykac/Room-Booking/blob/main/hotelBooking/project_images/swagger-ss/campaign-controller.jpg)
-![SwaggerEkranAlıntısı](https://github.com/TheAykac/Room-Booking/blob/main/hotelBooking/project_images/swagger-ss/credit-card-controller.jpg)
-![SwaggerEkranAlıntısı](https://github.com/TheAykac/Room-Booking/blob/main/hotelBooking/project_images/swagger-ss/customer-controller.jpg)
-![SwaggerEkranAlıntısı](https://github.com/TheAykac/Room-Booking/blob/main/hotelBooking/project_images/swagger-ss/hotel-controller.jpg)
-![SwaggerEkranAlıntısı](https://github.com/TheAykac/Room-Booking/blob/main/hotelBooking/project_images/swagger-ss/invoice-controller.jpg)
-![SwaggerEkranAlıntısı](https://github.com/TheAykac/Room-Booking/blob/main/hotelBooking/project_images/swagger-ss/payment-controller.jpg)
-![SwaggerEkranAlıntısı](https://github.com/TheAykac/Room-Booking/blob/main/hotelBooking/project_images/swagger-ss/room-booking-controller.jpg)
-![SwaggerEkranAlıntısı](https://github.com/TheAykac/Room-Booking/blob/main/hotelBooking/project_images/swagger-ss/room-controller.jpg)
-![SwaggerEkranAlıntısı](https://github.com/TheAykac/Room-Booking/blob/main/hotelBooking/project_images/swagger-ss/room-renovations-controller.jpg)
-![SwaggerEkranAlıntısı](https://github.com/TheAykac/Room-Booking/blob/main/hotelBooking/project_images/swagger-ss/system-management-controller.jpg)	
+
 
   
   
