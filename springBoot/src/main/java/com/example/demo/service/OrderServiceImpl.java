@@ -34,7 +34,7 @@ public class OrderServiceImpl implements OrderService {
     }
 
     @Override
-    public Customer getCustomerById(int id) throws Exception {
+    public Customer getOrderByCustomerId(int id) throws Exception {
         if (ObjectUtils.isEmpty(id)) {
             throw new Exception("message.validation.service.customerIdMustNotBeEmpty");
         }

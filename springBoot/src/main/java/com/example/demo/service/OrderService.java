@@ -13,8 +13,7 @@ public interface OrderService {
     Customer addOrder(@RequestBody OrderRequest request);
     List<Customer> orderList();
     List<OrderResponse> orderInformation();
-    Customer getCustomerById(@PathVariable int id) throws Exception;
-    // Customer editOrder(@PathVariable int id, @RequestBody OrderRequest request) throws Exception;
+    Customer getOrderByCustomerId(@PathVariable int id) throws Exception;
     void deleteOrder(@PathVariable int id) throws Exception;
 
 }
