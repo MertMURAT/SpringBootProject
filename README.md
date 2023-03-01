@@ -4,7 +4,7 @@
 
 :point_right:  'Room Booking' This Project is the Final Project of ETSTUR Bootcamp. Tools: **Java Spring-Hibernate-ORM-Maven-Spring Boot-AOP-DTO-JPA-RestAPI-JSON-Dev Tools**
 <br/>
- ``` Kullanılan Teknolojiler: **Java Spring-Hibernate-ORM-Maven-Spring Boot-AOP-DTO-JPA-RestAPI-JSON-Dev Tools-PostgreSQL**```
+ ``` Kullanılan Teknolojiler: **Java Spring-Hibernate-ORM-Maven-Spring Boot-JPA-RestAPI-JSON-Dev Tools-PostgreSQL-Postman-Swagger**```
 <br/>
 
 
