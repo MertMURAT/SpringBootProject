@@ -49,7 +49,15 @@
 </p>
  
   
+
+   ---
+  
+  ## ` 📊 UML Diagram`
+  
+  ![UML Diagram](https://user-images.githubusercontent.com/58560920/222063344-346a2743-12f8-4d7c-868d-4d1417bc02b3.png)
+
 ---
+
 
   
  
