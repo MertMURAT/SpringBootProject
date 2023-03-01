@@ -3,19 +3,19 @@
 <div align="center"><h2> 🚥 E-TİCARET PROJESİ 🚥 </h2> </div>
 
 
-Technology stacks
+## Technology stacks
 
- Java
+ - [x] Java
 
- Spring Boot
+ - [x] Spring Boot
 
- Spring Data JPA
+ - [x] Spring Data JPA
 
- H2 Database
+ - [x] H2 Database
 
- Maven
+ - [x] Maven
 
- Postman
+ - [x] Postman
 
 
 <b><h2> :star: Click for Backend Codes: :point_right: <a href="https://github.com/MertMURAT/SpringBootProject/tree/main/springBoot">BACKEND CODE </a> :point_left: </h2></b> 
@@ -27,8 +27,7 @@ Technology stacks
 
 ### ` 🏗️ N-Layered Architecture`
   
-<ul><li>	
-  <a href = "https://github.com/TheAykac/Room-Booking/tree/main/hotelBooking/hotelBooking/src/main/java/com/example/hotelBooking/api">:open_file_folder: Api</a>
+
 	
 
    
