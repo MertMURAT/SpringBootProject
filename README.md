@@ -17,6 +17,8 @@
 
  - [x] Postman
 
+ - [x] Swagger
+
 
 <b><h2> :star: Click for Backend Codes: :point_right: <a href="https://github.com/MertMURAT/SpringBootProject/tree/main/springBoot">BACKEND CODE </a> :point_left: </h2></b> 
 ``` Backend Kodları İçin Tıklayınız: ```
