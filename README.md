@@ -2,11 +2,20 @@
 <div align="center"><h1> :sparkles: E-Commerce Project :sparkles: </h1> </div>
 <div align="center"><h2> 🚥 E-TİCARET PROJESİ 🚥 </h2> </div>
 
-:point_right:  'Room Booking' This Project is the Final Project of ETSTUR Bootcamp. Tools: **Java Spring-Hibernate-ORM-Maven-Spring Boot-AOP-DTO-JPA-RestAPI-JSON-Dev Tools**
-<br/>
- ``` Kullanılan Teknolojiler: **Java Spring-Hibernate-ORM-Maven-Spring Boot-JPA-RestAPI-JSON-Dev Tools-PostgreSQL-Postman-Swagger**```
-<br/>
 
+Technology stacks
+
+ Java
+
+ Spring Boot
+
+ Spring Data JPA
+
+ H2 Database
+
+ Maven
+
+ Postman
 
 
 <b><h2> :star: Click for Backend Codes: :point_right: <a href="https://github.com/MertMURAT/SpringBootProject/tree/main/springBoot">BACKEND CODE </a> :point_left: </h2></b> 
